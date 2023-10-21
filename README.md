@@ -12,4 +12,6 @@
 ## Top languages 🍃 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=compact)](https://github.com/mattakvshi)
 ## Stats card 💯 ##
-[![Mattakvshi GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)
+## Pet  projects 🐶 ##
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=NEAR-frontend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-frontend)
