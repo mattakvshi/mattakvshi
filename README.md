@@ -14,4 +14,4 @@
 ## Stats card 💯 ##
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)
 ## Pet  projects 🐶 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&theme=midnight-purple&repo=NEAR-frontend)](https://github.com/mattakvshi/NEAR-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-frontend)](https://github.com/mattakvshi/NEAR-frontend)
