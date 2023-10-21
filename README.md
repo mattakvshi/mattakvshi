@@ -8,8 +8,8 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## Streak status 🔥 ##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattakvshi)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mattakvshi)](https://github.com/mattakvshi)
 ## Top languages 🍃 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=compact)](https://github.com/mattakvshi)
 ## Stats card 💯 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi)](https://github.com/anuraghazra/github-readme-stats)
+[![Mattakvshi GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)
