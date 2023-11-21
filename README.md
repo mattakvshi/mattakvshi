@@ -28,7 +28,6 @@
 # Top languages 🍃 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=pie&langs_count=12&theme=dark)](https://github.com/mattakvshi?tab=repositories)
 ``` Java
-
 public class HelloWorld {
   public static void main( String[] args ) {
     System.out.println('Hello World!');
