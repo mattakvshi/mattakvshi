@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World+I`m+mattakvshi)](https://git.io/typing-svg)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/mattakvshi)
+---
+## About me: ##
+- 🤓 I study the basics of computer science and applied mathematics at Kuban State University.
+- 🌐 Primary interest: Web development.
+- ☕ I am striving to work in the field of backend development in Java.
+- 🍃 I am currently studying the spring family of frameworks, as well as technologies such as MSA, Kafka, Redis, Docker, Kubernetes.
+- 😒 (Everything is complicated...) - this is how I would describe our relationship with the English language at the moment.
+- ⚛️ Sometimes I "have fun" with frontend technologies.
 # Hard skills ☕ #
 ### My basic skills ###
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
