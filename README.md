@@ -53,6 +53,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  
  # My stats cards 💯 # 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)  [![GitHub Streak](https://streak-stats.demolab.com?user=mattakvshi&theme=midnight-purple)](https://github.com/mattakvshi) 
