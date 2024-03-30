@@ -56,7 +56,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  
  # My stats cards 💯 # 
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)  [![GitHub Streak](https://streak-stats.demolab.com?user=mattakvshi&theme=midnight-purple)](https://github.com/mattakvshi) 
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)[![GitHub Streak](https://streak-stats.demolab.com?user=mattakvshi&theme=midnight-purple)](https://github.com/mattakvshi) 
 # Pet  projects 🐶 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-frontend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Landing-pooshka&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/Landing-pooshka)
