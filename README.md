@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=42386b&lines=Hello+World+I`m+mattakvshi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6c5cab&lines=Hello+World+I`m+mattakvshi)](https://git.io/typing-svg)
 ---
 ## About me: ##
 - 🤓 I study the basics of computer science and applied mathematics at Kuban State University.
