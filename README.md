@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6c5cab&lines=Hello+World+I`m+mattakvshi)](https://git.io/typing-svg)
 ---
+
+<a href="mailto:ytube9504@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/mattakvshi/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+
 ## About me: ##
 - 🤓 I study the basics of computer science and applied mathematics at Kuban State University.
 - 🌐 Primary interest: Web development.
@@ -76,5 +79,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=pie&langs_count=12&theme=midnight-purple)](https://github.com/mattakvshi?tab=repositories)
 
 </details>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c5cab&height=120&section=footer"/>
 </th>
 </table>
