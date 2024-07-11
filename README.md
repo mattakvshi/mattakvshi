@@ -70,9 +70,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
  
  # My stats cards 💯 # 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)[![GitHub Streak](https://streak-stats.demolab.com?user=mattakvshi&theme=midnight-purple)](https://github.com/mattakvshi) 
-</div>
 
 # Top languages 🍃 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=pie&langs_count=12&theme=midnight-purple)](https://github.com/mattakvshi?tab=repositories)
