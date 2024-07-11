@@ -23,7 +23,7 @@
 <th>
 <details>
 
- <summary>GitHub Stats</summary>
+ <summary>My Skills and Stats</summary>
 
 # Hard skills ☕ #
 
