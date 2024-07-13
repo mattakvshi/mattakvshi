@@ -21,6 +21,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=course-oracle-SQL-PLSQL-development-SMLab&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=project-for-SMLab&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/project-for-SMLab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Landing-pooshka&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/Landing-pooshka)
+<table>
+ <th style="color: grey;">
+  Large learning projects can be viewed below in pinned
+ </th>
+</table>
 
 <table>
 <th>
