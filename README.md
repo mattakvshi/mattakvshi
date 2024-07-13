@@ -15,14 +15,10 @@
 - ⚛️ Sometimes I "have fun" with frontend technologies.
 
 # Pet  projects 🐶 #
-<table>
-<th>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-frontend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Landing-pooshka&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/Landing-pooshka)
-</th>
-</table>
 
-<table border="1", color="6c5cab">
+<table>
 <th>
 <details>
 
