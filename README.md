@@ -16,6 +16,8 @@
 
 # Pet  projects 🐶 #
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-frontend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Landing-pooshka&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Landing-pooshka&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/Kotlin_Android_App-Java_Spring_API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Landing-pooshka&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/Landing-pooshka)
 
 <table>
