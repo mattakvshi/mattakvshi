@@ -15,8 +15,8 @@
 - ⚛️ Sometimes I "have fun" with frontend technologies.
 
 # Pet  projects 🐶 #
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-frontend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-backend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=NEAR-frontend&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/NEAR-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=Kotlin_Android_App-Java_Spring_API&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/Kotlin_Android_App-Java_Spring_API)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=course-oracle-SQL-PLSQL-development-SMLab&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/course-oracle-SQL-PLSQL-development-SMLab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mattakvshi&repo=project-for-SMLab&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi/project-for-SMLab)
