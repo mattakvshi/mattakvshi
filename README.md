@@ -81,6 +81,15 @@
  # My stats cards 💯 # 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mattakvshi&show_icons=true&theme=midnight-purple)](https://github.com/mattakvshi)[![GitHub Streak](https://streak-stats.demolab.com?user=mattakvshi&theme=midnight-purple)](https://github.com/mattakvshi) 
 
+# Activity graph
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://github.com/mattakvshi?tab=repositories">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattakvshi&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
 # Top languages 🍃 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattakvshi&layout=pie&langs_count=12&theme=midnight-purple)](https://github.com/mattakvshi?tab=repositories)
 
